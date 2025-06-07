@@ -11,7 +11,6 @@ A React + TypeScript + Vite project that demonstrates a **business intelligence 
 - [Getting Started](#-getting-started)
 - [Usage](#-usage)
 - [Project Structure](#-project-structure)
-- [Context & Hooks](#-context--hooks)
 - [Example Screenshots](#-example-screenshots)
 - [Scripts](#-scripts)
 
