@@ -94,8 +94,8 @@ A **React** + **TypeScript** + **Vite** project that demonstrates a **business i
   React Context providers for managing global state.
 - `src/hooks/`  
   Custom React hooks for filtering, pagination, and dropdown logic.
-- `src/test/components/`  
-  Unit tests for React components.
+- `src/test/`  
+  Unit tests.
 ---
 
 ## 📸 Example Screenshots
