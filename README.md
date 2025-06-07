@@ -1,6 +1,6 @@
 # Loop Assignment
 
-A React + TypeScript + Vite project that demonstrates a **business intelligence dashboard** with advanced filter functionality and a paginated data table, styled using **Tailwind CSS**, and deployed [**here**](https://loop-assignment-xi.vercel.app/) for live preview.
+A **React** + **TypeScript** + **Vite** project that demonstrates a **business intelligence dashboard** with advanced filter functionality and a paginated data table, styled using **Tailwind CSS**, and deployed [**here**](https://loop-assignment-xi.vercel.app/) for live preview.
 
 ---
 
