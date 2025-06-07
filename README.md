@@ -12,8 +12,6 @@ A **React** + **TypeScript** + **Vite** project that demonstrates a **business i
 - [Usage](#-usage)
 - [Project Structure](#-project-structure)
 - [Example Screenshots](#-example-screenshots)
-- [Scripts](#-scripts)
-
 
 ---
 
@@ -90,23 +88,14 @@ A **React** + **TypeScript** + **Vite** project that demonstrates a **business i
 
 ## 🗂 Project Structure
 
-- `src/components/data-table.tsx`  
-  Paginated table component with all logic and UI.
-- `src/components/filter-dropdown.tsx`  
-  Multi-select, searchable filter dropdown for each column.
-- `src/components/database-switcher.tsx`  
-  Dropdown component to switch between datasets.
+- `src/components/`  
+  Contains all React UI components (data table, filter dropdown, database switcher, etc.).
 - `src/context/`  
-  Contains React Context providers for global state management.
+  React Context providers for managing global state.
 - `src/hooks/`  
   Custom React hooks for filtering, pagination, and dropdown logic.
 - `src/test/components/`  
-  Unit tests for components.
-- `src/main.tsx`  
-  App entry point.
-- `src/index.css`  
-  Tailwind CSS import.
-
+  Unit tests for React components.
 ---
 
 ## 📸 Example Screenshots
@@ -121,13 +110,4 @@ A **React** + **TypeScript** + **Vite** project that demonstrates a **business i
 
 ---
 
-## 📦 Scripts
-
-- `npm run dev` – Start development server
-- `npm run build` – Build for production
-- `npm run preview` – Preview production build
-- `npm run lint` – Lint code
-- `npm test` – Run tests
-
----
 
